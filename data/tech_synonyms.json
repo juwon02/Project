@@ -1,0 +1,22 @@
+[
+  { "canonical": "React", "synonyms": ["리액트", "React.js", "ReactJS"] },
+  { "canonical": "Vue.js", "synonyms": ["뷰", "Vue", "VueJS"] },
+  { "canonical": "JavaScript", "synonyms": ["자바스크립트", "JS"] },
+  { "canonical": "TypeScript", "synonyms": ["타입스크립트", "TS"] },
+  { "canonical": "Python", "synonyms": ["파이썬"] },
+  { "canonical": "Java", "synonyms": ["자바"] },
+  { "canonical": "Spring Boot", "synonyms": ["스프링부트", "스프링 부트", "Spring"] },
+  { "canonical": "FastAPI", "synonyms": ["패스트API", "Fast API"] },
+  { "canonical": "Django", "synonyms": ["장고"] },
+  { "canonical": "Node.js", "synonyms": ["노드", "NodeJS", "Node"] },
+  { "canonical": "Docker", "synonyms": ["도커"] },
+  { "canonical": "Kubernetes", "synonyms": ["쿠버네티스", "k8s", "K8S"] },
+  { "canonical": "AWS", "synonyms": ["아마존 웹 서비스", "Amazon Web Services"] },
+  { "canonical": "PostgreSQL", "synonyms": ["포스트그레스", "Postgres"] },
+  { "canonical": "MySQL", "synonyms": ["마이SQL"] },
+  { "canonical": "MongoDB", "synonyms": ["몽고DB", "Mongo"] },
+  { "canonical": "Git", "synonyms": ["깃"] },
+  { "canonical": "SQL", "synonyms": ["에스큐엘"] },
+  { "canonical": "Linux", "synonyms": ["리눅스"] },
+  { "canonical": "CI/CD", "synonyms": ["씨아이씨디", "CICD"] }
+]

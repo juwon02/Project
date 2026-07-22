@@ -1,0 +1,50 @@
+[
+  {
+    "name": "정보처리기사",
+    "category": "국가기술자격",
+    "exam_frequency": "연 3회 (필기+실기)",
+    "difficulty": "중",
+    "prep_months": 3,
+    "note": "필기 합격 후 실기 응시 가능. 시험 일정은 변동되므로 큐넷(Q-Net) 공식 사이트 확인 필요."
+  },
+  {
+    "name": "SQLD",
+    "category": "민간자격(한국데이터산업진흥원)",
+    "exam_frequency": "연 4회",
+    "difficulty": "하~중",
+    "prep_months": 1,
+    "note": "SQL/데이터모델링 기초. 시험 일정은 데이터자격시험 공식 사이트 확인 필요."
+  },
+  {
+    "name": "ADsP",
+    "category": "민간자격(한국데이터산업진흥원)",
+    "exam_frequency": "연 4회",
+    "difficulty": "하",
+    "prep_months": 1,
+    "note": "데이터 분석 준전문가. 시험 일정은 데이터자격시험 공식 사이트 확인 필요."
+  },
+  {
+    "name": "빅데이터분석기사",
+    "category": "국가기술자격",
+    "exam_frequency": "연 2회 (필기+실기)",
+    "difficulty": "중~상",
+    "prep_months": 3,
+    "note": "실기에 R/Python 실무 문제 포함. 시험 일정은 큐넷(Q-Net) 공식 사이트 확인 필요."
+  },
+  {
+    "name": "정보보안기사",
+    "category": "국가기술자격",
+    "exam_frequency": "연 2회 (필기+실기)",
+    "difficulty": "상",
+    "prep_months": 4,
+    "note": "실기 합격률이 낮은 편. 시험 일정은 큐넷(Q-Net) 공식 사이트 확인 필요."
+  },
+  {
+    "name": "리눅스마스터",
+    "category": "국가공인 민간자격",
+    "exam_frequency": "연 2회",
+    "difficulty": "중",
+    "prep_months": 2,
+    "note": "1급/2급 구분. 시험 일정은 한국정보통신진흥협회 공식 사이트 확인 필요."
+  }
+]
